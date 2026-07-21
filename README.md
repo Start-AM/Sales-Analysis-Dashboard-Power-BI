@@ -43,21 +43,41 @@ The project follows a complete analytics workflow:
 ## 📂 Repository Structure
 
 ```
-├── Dataset.xlsx
-├── Level 1
-│   ├── Excel Tasks
+Sales-Analysis-Dashboard-Power-BI/
 │
-├── Level 2
-│   ├── SQL Queries
-│   ├── Dataset (CSV)
+├── 📁 Level 1 - Data Understanding & Cleaning (Excel)
+│   ├── Cleaned Dataset.xlsx
+│   ├── Basic Excel Analysis
+│   └── Pivot Tables & Charts
 │
-├── Level 3
-│   ├── Power BI Dashboard (.pbix)
+├── 📁 Level 2 - Data Analysis (SQL)
+│   ├── SQL Queries.sql
+│   ├── SQL Analysis Report.pdf
+│   └── Business Insights
 │
-└── Final Business Insights Report.pdf
+├── 📁 Level 3 - Power BI Dashboard
+│   ├── Sales Dashboard.pbix
+│   ├── Dashboard Screenshots
+│   └── KPI & Interactive Visualizations
+│
+├── 📄 Dataset.xlsx
+├── 📄 Final Business Insights Report.pdf
+├── 📦 Final Compossed file.zip
+├── 📄 README.md
+└── 📄 Task_File.pptx
 ```
 
----
+### 📌 Repository Contents
+
+| Folder/File | Description |
+|--------------|-------------|
+| **Level 1** | Data cleaning, preprocessing, Excel analysis, Pivot Tables, and charts. |
+| **Level 2** | SQL database import, analytical SQL queries, and business insights. |
+| **Level 3** | Interactive Power BI dashboard with KPIs, slicers, filters, and visual analytics. |
+| **Dataset.xlsx** | Original dataset used throughout the project. |
+| **Final Business Insights Report.pdf** | Summary of key findings and business recommendations. |
+| **Task_File.pptx** | Official project requirements and task description. |
+| **Final Compossed file.zip** | Complete project submission package containing all deliverables. |
 
 ##  Key Business Insights
 
@@ -82,15 +102,6 @@ The project follows a complete analytics workflow:
 
 ---
 
-##  Business Recommendations
-
-- Prioritize marketing for high-profit products.
-- Strengthen customer retention through loyalty programs.
-- Increase investment in underperforming regions.
-- Optimize discount strategies to improve profitability.
-- Focus on high-margin product categories.
-
----
 
 ##  Skills Demonstrated
 
