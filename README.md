@@ -121,5 +121,5 @@ The project follows a complete analytics workflow:
 
 Aspiring Data Analyst passionate about Business Intelligence, SQL, Power BI, Excel, and Data Visualization.
 
-- LinkedIn: *[Add your profile link](https://www.linkedin.com/in/mohit-singh-28022b2a5)*
+- LinkedIn: *[linkdin-Mohit_Singh](https://www.linkedin.com/in/mohit-singh-28022b2a5)*
 - Email: *mohitvns76@gmail.com*
